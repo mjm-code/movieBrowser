@@ -1,1 +1,32 @@
-# Readme file 
+# Movie Browser   <p align='right'>![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/mjm-code/movieBrowser/master)</p>
+***
+<h2 align='center'>
+<img src='snippet.jpg' height='250px' width='300px'></img></h2>
+
+***
+ 
+###### *Movie browser dispalys information about movies and  storing browsing history in local storage. Simple app to exercise fetching api from 3rd party server and ability to develop web app with React. Final project of coding Bootcamp.*     
+##### [Link to project](https://moviebrowser-mjmcode.netlify.app/) :open_file_folder:
+##### Current state: [![Netlify Status](https://api.netlify.com/api/v1/badges/3bf6c77f-2c9a-4ce6-8e94-f75b696d1155/deploy-status)](https://app.netlify.com/sites/moviebrowser-mjmcode/deploys)
+***
+##### How to run locally
+* You’ll need to have [Node >= 14.0.0 and npm >= 5.6](https://nodejs.org/en/) on your machine.
+* Clone repo to your local machine then change directory to movieBrowser and run ```npm install```.
+* Head to https://www.omdbapi.com/apikey.aspx to obtain free api key, paste it in ```.env.local ```  ```REACT_APP_API_KEY= ``` and save.
+* Run ```npm run start``` to start web app on localhost.
+
+
+
+***
+##### Goals to achieve: 
+- [x] React 
+- [x] Responsive Web Design.
+- [x] Fetch api from 3rd party server.
+- [x] Display information about movie.
+- [x] Store a search history in local storage.
+- [x] Having fun :smirk:.  
+
+
+***
+
+ [![Twitter](https://img.shields.io/twitter/follow/mjmcode?style=social)](https://twitter.com/mjmcode)  
