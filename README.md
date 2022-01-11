@@ -1,7 +1,7 @@
 # Movie Browser   <p align='right'>![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/mjm-code/movieBrowser/master)</p>
 ***
 <h2 align='center'>
-<img src='snippet.jpg' height='250px' width='300px'></img></h2>
+<img src='https://github.com/mjm-code/movieBrowser/blob/main/snippet.JPG' height='250px' width='300px'></img></h2>
 
 ***
  
@@ -27,7 +27,8 @@
 - [x] Having fun :smirk:.  
 
 ***
-<img src="[https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" width="50" height="50">
+<h5 align="center">Technical stack:</h5>
+<h2 align='center'><img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" width="70" height="70">&nbsp<img src="res/html5.png" width="200" height="70">&nbsp&nbsp<img src="res/semantic.png" width="70" height="70"></h2>
 
 ***
  [![Twitter](https://img.shields.io/twitter/follow/mjmcode?style=social)](https://twitter.com/mjmcode)  
