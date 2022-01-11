@@ -5,7 +5,7 @@
 
 ***
  
-###### *Movie browser dispalys information about movies and  storing browsing history in local storage. Simple app to exercise fetching api from 3rd party server and ability to develop web app with React. Final project of coding Bootcamp.*     
+###### *Movie browser displays information about movies and stores browsing history in local storage. App was developed to review process of creating modern web applications with React. Primary task is to fetch API from 3rd party server in secure and efficient way. Final project of coding bootcamp.*     
 ##### [Link to project](https://moviebrowser-mjmcode.netlify.app/) :open_file_folder:
 ##### Current state: [![Netlify Status](https://api.netlify.com/api/v1/badges/3bf6c77f-2c9a-4ce6-8e94-f75b696d1155/deploy-status)](https://app.netlify.com/sites/moviebrowser-mjmcode/deploys)
 ***
@@ -19,14 +19,15 @@
 
 ***
 ##### Goals to achieve: 
-- [x] React 
+- [x] Built with React. 
 - [x] Responsive Web Design.
 - [x] Fetch api from 3rd party server.
-- [x] Display information about movie.
-- [x] Store a search history in local storage.
+- [x] Search and display information about given movie name.
+- [x] Store a search history in a local storage.
 - [x] Having fun :smirk:.  
 
+***
+<img src="[https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" width="50" height="50">
 
 ***
-
  [![Twitter](https://img.shields.io/twitter/follow/mjmcode?style=social)](https://twitter.com/mjmcode)  
