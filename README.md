@@ -1,7 +1,7 @@
 # Movie Browser   <p align='right'>![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/mjm-code/movieBrowser/master)</p>
 ***
 <h2 align='center'>
-<img src='https://github.com/mjm-code/movieBrowser/blob/main/snippet.JPG' height='250px' width='300px'></img></h2>
+<img src='https://github.com/mjm-code/movieBrowser/blob/main/res/snippet.JPG' height='250px' width='300px'></img></h2>
 
 ***
  
